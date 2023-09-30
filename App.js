@@ -1,6 +1,6 @@
-import Banner from './Banner'
+import Banner from 'Banner.css'
 // import Cart from './Cart'
-import ShoppingList from './ShoppingList'
+import ShoppingList from 'ShoppingList.css'
 
 function App() {
 	return (
