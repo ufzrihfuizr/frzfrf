@@ -1,4 +1,4 @@
-import { plantList } from 'plantList'
+import { plantList } from 'plantList.js'
 function ShoppingList() {
 	const categories = plantList.reduce(
 		(acc, plant) =>
